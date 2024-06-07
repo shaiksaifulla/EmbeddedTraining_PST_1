@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Batch_06_2024\\EmbeddedTraining_PST_1\\Srikant\\CWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{096A992E-CFA7-4022-BE30-8A7AFD79F183}|CWorkshop.vcxproj|C:\\Batch_06_2024\\EmbeddedTraining_PST_1\\Srikant\\CWorkshop\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{096A992E-CFA7-4022-BE30-8A7AFD79F183}|CWorkshop.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Batch_06_2024\\EmbeddedTraining_PST_1\\Srikant\\CWorkshop\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Batch_06_2024\\EmbeddedTraining_PST_1\\Srikant\\CWorkshop\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-07T20:06:00.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
