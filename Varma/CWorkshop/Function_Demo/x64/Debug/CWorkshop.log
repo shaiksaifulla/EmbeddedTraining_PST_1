@@ -1,4 +1,1 @@
-﻿  Main.c
-C:\Users\naras\OneDrive\Desktop\Batch_06_2024\EmbeddedTraining_PST_1\Varma\CWorkshop\Main.c(4,2): warning C4013: 'print' undefined; assuming extern returning int
-Main.obj : error LNK2019: unresolved external symbol print referenced in function main
-C:\Users\naras\OneDrive\Desktop\Batch_06_2024\EmbeddedTraining_PST_1\Varma\CWorkshop\x64\Debug\Function_Demo.exe : fatal error LNK1120: 1 unresolved externals
+﻿
