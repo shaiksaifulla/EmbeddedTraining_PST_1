@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Training\\EmbeddedTraining_PST_1\\Suraj\\Cworkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E572E6F-5EB5-4FEA-9D4A-8E261420BE82}|Cworkshop.vcxproj|C:\\Users\\DELL\\Desktop\\Training\\EmbeddedTraining_PST_1\\Suraj\\Cworkshop\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E572E6F-5EB5-4FEA-9D4A-8E261420BE82}|Cworkshop.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Training\\EmbeddedTraining_PST_1\\Suraj\\Cworkshop\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Training\\EmbeddedTraining_PST_1\\Suraj\\Cworkshop\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAkwH0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-07T20:39:11.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
