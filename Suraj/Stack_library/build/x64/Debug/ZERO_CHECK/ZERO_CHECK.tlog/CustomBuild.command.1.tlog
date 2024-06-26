@@ -1,0 +1,10 @@
+^C:\USERS\DELL\DESKTOP\STACK_LIBRARY\BUILD\CMAKEFILES\311D76B1888610B7F00927CEFB59A670\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/DELL/Desktop/Stack_library -BC:/Users/DELL/Desktop/Stack_library/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/DELL/Desktop/Stack_library/build/Stack_library.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
