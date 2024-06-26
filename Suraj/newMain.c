@@ -1,22 +1,27 @@
 #include "sLinkedlist.h"
 
-int main()
-{
-	struct node nodeElement;
-	nodeElement.data = 10;
-	nodeElement.next = NULL;
+int main() {
+    struct node nodeElement;
 
-	addNode(&nodeElement);
+    nodeElement.data = 10;
+    nodeElement.next = NULL;
+    addNode(&nodeElement);
 
-	nodeElement.data = 20;
-	nodeElement.next = NULL;
+    nodeElement.data = 20;
+    nodeElement.next = NULL;
+    addNode(&nodeElement);
 
-	addNode(&nodeElement);
+    nodeElement.data = 30;
+    nodeElement.next = NULL;
+    addNode(&nodeElement);
 
-	nodeElement.data = 30;
-	nodeElement.next = NULL;
+    printf("Original Linked List:\n");
+    printList();
 
-	addNode(&nodeElement);
+    reverseLinkedList();
 
-	printList();
+    printf("Reversed Linked List:\n");
+    printList();
+
+    return 0;
 }
